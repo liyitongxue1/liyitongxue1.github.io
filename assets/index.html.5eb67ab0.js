@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o,c as t,a as n}from"./app.799ebe20.js";const r={},_=n("p",null,"Don't do to others what you want to be done to you.",-1),a=[_];function c(s,d){return o(),t("div",null,a)}var f=e(r,[["render",c],["__file","index.html.vue"]]);export{f as default};
